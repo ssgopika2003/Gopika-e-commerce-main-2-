@@ -1,10 +1,10 @@
-# 🕯️ Diya - Handcrafted Scented Candles
+# 🕯️ Gopika - Handcrafted Scented Candles
 
-![Diya Hero](https://ik.imagekit.io/codernandan/assets/diya-screenshot-desktop.webp)
+![Gopika Hero](https://ik.imagekit.io/codernandan/assets/diya-screenshot-desktop.webp)
 
-> **"Light a Diya, light up a memory."**
+> **"Light a Gopika, light up a memory."**
 
-**Diya** is a premium e-commerce platform for handcrafted scented candles, made with love by engineering students. We blend tradition with modern aesthetics to bring you fragrances that evoke nostalgia, peace, and celebration.
+**Gopika** is a premium e-commerce platform for handcrafted scented candles, made with love by engineering students. We blend tradition with modern aesthetics to bring you fragrances that evoke nostalgia, peace, and celebration.
 
 ---
 
@@ -52,8 +52,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/diya.git
-    cd diya
+  
     ```
 
 2.  **Install dependencies:**
@@ -92,8 +91,6 @@ src/
 
 ## 👥 Authors
 
-- **Diya Team** - *Handcrafting memories.*
+- **Gopika Team** - *Handcrafting memories.*
 
----
 
-**© 2026 Diya.** All rights reserved.
