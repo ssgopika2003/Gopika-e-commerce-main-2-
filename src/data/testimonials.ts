@@ -1,0 +1,58 @@
+export const TESTIMONIALS = [
+  {
+    id: 1,
+    name: "SAYONI NARJINARI",
+    image: "https://ik.imagekit.io/codernandan/testimonial/sayoni.jpeg",
+    text: "Pahli baarish ki khushboo ko is candle ne bilkul zinda kar diya hai. Jalate hi ek fresh, sukoon bhara aur cozy feel aata hai jo dil ko instantly calm kar deta hai. Truly a beautiful and soothing fragrance, perfect for relaxing moments.",
+    rating: 5,
+  },
+  {
+    id: 2,
+    name: "SIDDARTH KUMAR",
+    image: "https://ik.imagekit.io/codernandan/testimonial/sit.jpeg",
+    text: "Always wanted a go-to product that could freshen my room instantly. I’m glad I stumbled upon these products...not only do they have beautiful aromas based on different flowers (great idea tbh), which I loved, but they also enhance the overall vibe cuz they’re cute candles, not artificial perfumes. Worth the money, I’d say. Go for it. ✌️",
+    rating: 5,
+  },
+  {
+    id: 3,
+    name: "SHELLY RICHA LAKDA",
+    image: "https://ik.imagekit.io/codernandan/testimonial/shelly.jpeg",
+    text: "I was skeptical about 'Pahli Baarish'—like, how can you bottle the smell of mud? But WOW. It literally smells like the first rain in my village. I’ve bought Bath & Body Works before, but this feels more real? Maybe because it’s handmade.",
+    rating: 5,
+  },
+  {
+    id: 4,
+    name: "RONIT PAL",
+    image: "https://ik.imagekit.io/codernandan/testimonial/ronit.jpeg",
+    text: "Honestly, I bought the Lavender one just to make my hostel room smell less... damp. But now it’s my permanent study buddy. I light it up during all-nighters, and it actually keeps me calm. The crackling sound is so satisfying when everything else is silent. 10/10 recommending to my wingmates.",
+    rating: 4,
+  },
+  {
+    id: 5,
+    name: "INDRAJIT KUMAR SAU",
+    image: "https://ik.imagekit.io/codernandan/testimonial/indra.jpeg",
+    text: "The wooden wick is a game changer! It sounds like a tiny fireplace. I put on some lo-fi beats, light the Waadi candle, and my room feels like a hill station in Manali. If you want Sukoon, just buy it.",
+    rating: 3,
+  },
+  {
+    id: 6,
+    name: "PIYUSH KUMAR",
+    image: "https://ik.imagekit.io/codernandan/testimonial/piyush.jpeg",
+    text: "I don't know what you guys put in 'Waadi' but it smells exactly like a pine forest. Instant stress buster after a long day of coding. Love that it's made by students, keep it up guys!.",
+    rating: 5,
+  },
+  {
+    id: 7,
+    name: "RIJU WANA",
+    image: "https://ik.imagekit.io/codernandan/testimonial/riju.jpeg",
+    text: "Finally found a candle that actually smells amazing till the very end. DIYA candles are top-notch quality! 🕯️.",
+    rating: 4,
+  },
+  {
+    id: 8,
+    name: "PUJA DEY",
+    image: "https://ik.imagekit.io/codernandan/testimonial/puja.jpeg",
+    text: "Long-lasting and premium. Best gift you can give to yourself or someone special.",
+    rating: 5,
+  },
+];
